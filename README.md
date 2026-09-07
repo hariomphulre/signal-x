@@ -1,4 +1,4 @@
-Not updated plz, ignore it.
+Not updated , plz ignore it.
 
 # 🚦 Smart Traffic Control & Surveillance System </h2>
 
